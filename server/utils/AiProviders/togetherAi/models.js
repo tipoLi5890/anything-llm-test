@@ -455,6 +455,12 @@ const MODELS = {
     name: "Qwen 2 Instruct (72B)",
     maxLength: 32768,
   },
+  "Qwen/QwQ-32B-Preview": {
+    id: "Qwen/QwQ-32B-Preview",
+    organization: "Qwen",
+    name: "QwQ 32B Preview",
+    maxLength: 32768,
+  },
   "Qwen/Qwen2.5-72B-Instruct-Turbo": {
     id: "Qwen/Qwen2.5-72B-Instruct-Turbo",
     organization: "Qwen",
